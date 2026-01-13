@@ -78,3 +78,5 @@ logs/
 *.bak
 *.swp
 *~.nib
+
+.history/
